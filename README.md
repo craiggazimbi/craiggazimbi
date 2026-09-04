@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I'm Craig 👋
+### Hi, I am Craig Gazimbi 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=620&lines=Full+Stack+%7C+Mobile+%7C+Systems+Engineer;You+are+the+universe%2C+experiencing+itself+%F0%9F%8C%8C;In+superposition+between+bugs+%26+features+%E2%9A%9B%EF%B8%8F;Life+is+not+a+problem+to+be+solved%E2%80%94Alan+Watts;The+waveform+collapses+at+deployment+%F0%9F%92%AB;Muddy+water%2C+left+alone%2C+becomes+clear)](https://github.com/craiggazimbi)
 
@@ -34,6 +34,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
@@ -51,9 +52,3 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=craiggazimbi&theme=gruvbox&hide_border=true&area=true)](https://github.com/craiggazimbi)
 
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
